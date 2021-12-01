@@ -1,0 +1,132 @@
+Data/Hora.......: 13/07/2020 20:08:22
+Mensagem........: Error Message: Api parece estar indisponível no momento. Verifique se oData/Hora.......: 13/07/2020 20:22:46
+Mensagem........: Error Message: Api parece estar indisponível no momento. Verifique se oData/Hora.......: 13/07/2020 20:24:41
+Mensagem........: Error Message: Api parece estar indisponível no momento. Verifique se o serviço está ativo e suas conexões de rede
+Classe Exceção..: Exception
+Unit............: uFrmVoting
+Usuário.........: desv01
+Versão Windows..: Windows 8
+----------------------------------------------------------------------
+Data/Hora.......: 13/07/2020 20:30:32
+Mensagem........: Error ao tentar comunicar com a api: Api parece estar indisponível no momento. Verifique se o serviço está ativo e suas conexões de rede
+Classe Exceção..: ApiException
+Unit............: uFrmVoting
+Usuário.........: desv01
+Versão Windows..: Windows 8
+----------------------------------------------------------------------
+Data/Hora.......: 13/07/2020 20:31:02
+Mensagem........: Error ao tentar comunicar com a api: Api parece estar indisponível no momento. Verifique se o serviço está ativo e suas conexões de rede
+Classe Exceção..: ApiException
+Unit............: uFrmVoting
+Usuário.........: desv01
+Versão Windows..: Windows 8
+----------------------------------------------------------------------
+Data/Hora.......: 13/07/2020 20:31:30
+Mensagem........: Error ao tentar comunicar com a api: Api parece estar indisponível no momento. Verifique se o serviço está ativo e suas conexões de rede
+Classe Exceção..: ApiException
+Formulário......: FrmVoting
+Unit............: Vcl.Mask
+Controle Visual.: edtCPF
+Usuário.........: desv01
+Versão Windows..: Windows 8
+----------------------------------------------------------------------
+Data/Hora.......: 13/07/2020 20:34:51
+Mensagem........: Error crítico ao tentar comunicar com a api. 
+A aplicação será encerrada.
+Erro: Api parece estar indisponível no momento. Verifique se o serviço está ativo e suas conexões de rede
+Classe Exceção..: ApiException
+Unit............: uFrmVoting
+Usuário.........: desv01
+Versão Windows..: Windows 8
+----------------------------------------------------------------------
+Data/Hora.......: 13/07/2020 20:38:04
+Mensagem........: A aplicação será encerrada devido a falha de comunicação com a api.
+
+Erro: Api parece estar indisponível no momento. 
+Verifique suas conexões de rede e se o serviço está ativo
+Classe Exceção..: ApiException
+Unit............: uFrmVoting
+Usuário.........: desv01
+Versão Windows..: Windows 8
+----------------------------------------------------------------------
+Data/Hora.......: 13/07/2020 21:56:52
+Mensagem........: A aplicação será encerrada devido a falha de comunicação com a api.
+
+Erro: Api parece estar indisponível no momento. 
+Verifique suas conexões de rede e se o serviço está ativo
+Classe Exceção..: ApiException
+Unit............: uFrmVoting
+Usuário.........: desv01
+Versão Windows..: Windows 8
+----------------------------------------------------------------------
+Data/Hora.......: 13/07/2020 21:58:04
+Mensagem........: Access violation at address 006085E0 in module 'DemocraticLunch.exe'. Read of address 0000000C
+Classe Exceção..: EAccessViolation
+Formulário......: FrmVoting
+Unit............: Vcl.ExtCtrls
+Controle Visual.: btnNext
+Usuário.........: desv01
+Versão Windows..: Windows 8
+----------------------------------------------------------------------
+Data/Hora.......: 13/07/2020 21:58:21
+Mensagem........: A aplicação será encerrada devido a falha de comunicação com a api.
+
+Erro: HTTP/1.1 400 Bad Request
+Classe Exceção..: ApiException
+Formulário......: FrmVoting
+Unit............: Vcl.ExtCtrls
+Controle Visual.: btnNext
+Usuário.........: desv01
+Versão Windows..: Windows 8
+----------------------------------------------------------------------
+Data/Hora.......: 14/07/2020 04:19:06
+Mensagem........: Falha de comunicação com a api.
+
+Erro: HTTP/1.1 400 Bad Request
+Classe Exceção..: ApiException
+Formulário......: FrmVoting
+Unit............: Vcl.ExtCtrls
+Controle Visual.: btnNext
+Usuário.........: desv01
+Versão Windows..: Windows 8
+----------------------------------------------------------------------
+Data/Hora.......: 14/07/2020 04:19:48
+Mensagem........: Falha de comunicação com a api.
+
+Erro: HTTP/1.1 400 Bad Request
+Classe Exceção..: ApiException
+Formulário......: FrmVoting
+Unit............: Vcl.ExtCtrls
+Controle Visual.: btnNext
+Usuário.........: desv01
+Versão Windows..: Windows 8
+----------------------------------------------------------------------
+Data/Hora.......: 14/07/2020 17:27:13
+Mensagem........: Falha de comunicação com a api.
+
+Erro: 
+Classe Exceção..: ApiException
+Unit............: uFrmVoting
+Usuário.........: desv01
+Versão Windows..: Windows 8
+----------------------------------------------------------------------
+Data/Hora.......: 14/07/2020 17:35:29
+Mensagem........: Falha de comunicação com a api.
+
+Erro: 
+Classe Exceção..: ApiException
+Formulário......: FrmVoting
+Unit............: Vcl.ExtCtrls
+Controle Visual.: btnNext
+Usuário.........: desv01
+Versão Windows..: Windows 8
+----------------------------------------------------------------------
+Data/Hora.......: 01/12/2021 09:11:20
+Mensagem........: Falha de comunicação com a api.
+
+Erro: 
+Classe Exceção..: ApiException
+Unit............: uFrmVoting
+Usuário.........: Cristiano Lemos
+Versão Windows..: Windows 8
+----------------------------------------------------------------------
