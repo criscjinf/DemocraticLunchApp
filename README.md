@@ -1,5 +1,9 @@
 # app-democratic-lunch
->> Aplicação responsavel por iniciar a votação e registrar os votos
+Este aplicativo é parte do projeto DemocraticLunch que é composto por:
+
+ * **app-democratic-lunch:** Aplicação delphi que serve como frontend e é responsavel por iniciar a votação e registrar os votos
+ * **srv-democratic-lunch:** Serviço em node que tem o propósito de encerrar a votação e notificar as pessoas sobre em qual restaurante irão almoçar
+ * **api-democratic-lunch:** Api em node com propósito de receber os votos a partir do app.
 
 ## Dependências
 ```
